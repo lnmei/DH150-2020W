@@ -1,5 +1,18 @@
-# DH150-2020W
-UX project for UCLA Digital Humanities 150 course with Dr. Sookie Cho
+# Bookcore
+
+### Digital Humanities 150 Assignment 1: Heuristic Evaluation by Ellen Mei
+*“You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, who had ever been alive.”    ~James Baldwin*
+
+Lately I have found a lot of solace and wisdom through reading in all forms and genres, and joy in discovering new favorite books and writers. As James Baldwin so deeply understood, reading is a fundamental and immutable means of human connection, and I hope to contribute to a shared goal for knowledge, understanding, and joy through reading. The community of English-language readers is diverse in background and identity, interest and motivation for reading, taste in reading materials, and accessibility to reading. In building a user interface that helps members of this community discover and access new things to read, I seek to promote reading materials as diverse as the community and as accessibly as possible. 
+
+## Whichbook Heuristic Evaluation
+[Whichbook](https://www.whichbook.net/)
+
+Whichbook is a website that helps you choose a book to read through a unique process of searching by mood, emotion, plot shape, type of main character, and other parameters beyond genre, author, or keywords. The site focuses on books that readers will not find on other websites, excluding bestselling authors or already popular books in favor of less well-known books rated and contributed by real readers. Once a book is found, users can be linked to borrow or buy it, share it online, or add it to a book list.
+
+#### Initial Evaluation
+While the premise of Whichbook is very intriguing, the website itself looks outdated and confusing. The search function was difficult to understand without having to play around with the options and explore myself. The search results were disorganized and difficult to navigate. Examining how each result matched with my search parameters was cumbersome. Overall, my initial impression was that Whichbook executes its core search function poorly, and the first order of business was to resolve confusion and disorganization in searching for books based on unique parameters.
+
 
 ### 10 Usability Heuristics for UX Design
 
