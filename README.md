@@ -1,6 +1,7 @@
 # bookcore
 
-### Digital Humanities 150 Assignment 1: Heuristic Evaluation by Ellen Mei
+### Digital Humanities 150: User Experience Design with Dr. Sookie Cho
+### Assignment 1: Heuristic Evaluation by Ellen Mei
 *“You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, who had ever been alive.”    ~James Baldwin*
 
 Lately I have found a lot of solace and wisdom through reading in all forms and genres, and joy in discovering new favorite books and writers. As James Baldwin so deeply understood, reading is a fundamental and immutable means of human connection, and I hope to contribute to a shared goal for knowledge, understanding, and joy through reading. The community of English-language readers is diverse in background and identity, interest and motivation for reading, taste in reading materials, and accessibility to reading. In building a user interface that helps members of this community discover and access new things to read, I seek to promote reading materials as diverse as the community and as accessibly as possible. 
