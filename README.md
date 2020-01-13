@@ -1,4 +1,4 @@
-# Bookcore
+# bookcore
 
 ### Digital Humanities 150 Assignment 1: Heuristic Evaluation by Ellen Mei
 *“You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, who had ever been alive.”    ~James Baldwin*
