@@ -107,3 +107,39 @@ A major error occurs when you try to remove books from your list. When editing y
 *Severity Rating: 3*
 
 The search parameters are unlabeled and using them requires the user to click around first to understand its functions, such as the sliders and the 4 category limit. There is no ‘Help’ page and the ‘About’ page does not give any usability documentation. Hovering or clicking buttons does not give information about what those buttons do.
+
+
+## LibraryThing Heuristic Evaluation
+
+
+#### 1. Visibility of system status
+*Severity Rating: *
+
+#### 2. Match between system and the real world
+*Severity Rating: *
+
+#### 3. User control and freedom
+*Severity Rating: *
+
+#### 4. Consistency and standards
+*Severity Rating: *
+
+#### 5. Error prevention
+*Severity Rating: *
+
+#### 6. Recognition rather than recall
+*Severity Rating: *
+
+#### 7. Flexibility and efficiency of use
+*Severity Rating: *
+
+#### 8. Aesthetic and minimalist design
+*Severity Rating: 3*
+
+The interface on all pages is cluttered and overwhelming to look at with little to no graphics to break up text.
+
+#### 9. Help users recognize, diagnose, and recover from errors
+*Severity Rating: *
+
+#### 10. Help and documentation
+*Severity Rating: *
