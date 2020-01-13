@@ -9,6 +9,8 @@ Lately I have found a lot of solace and wisdom through reading in all forms and 
 ## Whichbook Heuristic Evaluation
 [Whichbook](https://www.whichbook.net/)
 
+![Whichbook homepage](/whichbook/homepage.png)
+
 Whichbook is a website that helps you choose a book to read through a unique process of searching by mood, emotion, plot shape, type of main character, and other parameters beyond genre, author, or keywords. The site focuses on books that readers will not find on other websites, excluding bestselling authors or already popular books in favor of less well-known books rated and contributed by real readers. Once a book is found, users can be linked to borrow or buy it, share it online, or add it to a book list.
 
 #### Initial Evaluation
@@ -16,11 +18,16 @@ While the premise of Whichbook is very intriguing, the website itself looks outd
 
 ### 10 Usability Heuristics Evaluation
 
+To conduct my heuristic evaluation, my task was to search for a book and add it to my list.
+
 #### 1. Visibility of system status
 *Severity Rating: 2*
 
+![upper limit on search categories](/whichbook/h1%201.png)
+
 Using the search process, although all search parameters are listed, there is no indication that there is a limit on the number of categories you can include in your search until you hit the upper limit of 4 categories. 
 
+![search results](/whichbook/h1%202.png)
 
 Once you click ‘Go’ to get your search results, there is no indication of how many books your search turned up. Notice in the screenshot that the scroll bar is already quite small, and the only button to expand the page merely says ‘More results…’.
 
@@ -29,9 +36,13 @@ Once you click ‘Go’ to get your search results, there is no indication of ho
 
 The terms used to define the search parameters are somewhat intuitive to American English speakers, although some terms such as the idioms “larger than life” and “down to earth” can be confusing even to some native speakers.
 
+![outdated search categories: race](/whichbook/h2%202.png)
+
+![outdated search categories: gender](/whichbook/h2%203.png)
 
 Some categories of search, namely Race and Gender, are outdated compared to modern social conventions. Race includes only ‘Black’, ‘White’, and ‘Asian’ which themselves are vague categories of race, in addition to lumping everyone else together as ‘Other culture’. Gender features an acknowledgement of how it’s binary categories are antiquated but does not yet have a feature that addresses the problem.
 
+![links are difficult to understand](/whichbook/h2%204.png)
 
 Finally, when viewing the search results themselves, the blue links under the book synopsis appear to be external links as is convention for the blue and underlined text, but turn out to be pop-ups once you click them. The titles of the links themselves are also unintuitive and give no information about what ‘Extract’ and ‘Parallel’ mean in context.
 
@@ -53,26 +64,40 @@ The search function prevents you from inputting more than 4 categories with an e
 #### 6. Recognition rather than recall
 *Severity Rating: 2*
 
+![vague search parameters](/whichbook/h6%201.png)
+
 All items in the search function are labeled so that users can easily select from predefined parameters. However, there is no search history that allows you to easily access previous search results, and previous results are difficult to replicate given the sliders are not labeled on a specified scale. Therefore, unless a book is saved to a list, a user looking for a specific book from a previous search must rely solely on memory. 
 
 #### 7. Flexibility and efficiency of use
 *Severity Rating: 3*
 
-There do not appear to be any shortcuts or alternatives to the search process, including no option to revisit previous searches, although if the user has a specific book in mind, there is a ‘Find similar’ shortcut that allows users to easily search for similar books. However, there does not appear to be a search bar users can type in, so finding a specific title requires users to navigate an alphabetized list or titles or authors. Overall, this website’s primary and distinguishing function is the opposite of flexible and efficient.
+![find similar](/whichbook/h7%201.png)
+
+There do not appear to be any shortcuts or alternatives to the search process, including no option to revisit previous searches, although if the user has a specific book in mind, there is a ‘Find similar’ shortcut that allows users to easily search for similar books. 
+
+![search for a book by title](/whichbook/h7%202.png)
+
+However, there does not appear to be a search bar users can type in, so finding a specific title requires users to navigate an alphabetized list or titles or authors. Overall, this website’s primary and distinguishing function is the opposite of flexible and efficient.
 
 #### 8. Aesthetic and minimalist design
 *Severity Rating: 2*
 
 Some of the search parameters seem to overlap and are therefore superfluous, namely the pairs ‘expected’ and ‘unpredictable’, and ‘conventional’ and ‘unusual’. The categories are not labeled so what aspect of a book they refer to –plot, characters, prose style, etc. – are unclear. 
 
+![about page](/whichbook/h8%201.png)
 
 The website’s aesthetic is sterile and severe, conflicting with the website’s self-proclaimed mission of being “a unique site for choosing what the read.” The About page is convoluted and long to read, as are the book synopses on a long scrolling page of dozens of search results. There are no images or graphics aside from small book covers. It is easy to get overwhelmed by text even as someone who enjoys reading. 
 
+![bottom navigation bar](/whichbook/h8%202.png)
 
 Additionally, many of the options, including the ‘About’ page are in a navigation bar at the bottom of the page, while the top navigation bar features only the ‘Home’ page and 3 separate tabs for Lists. Effectively, the design of the website does not fully communicate what the website has to offer. 
 
 #### 9. Help users recognize, diagnose, and recover from errors
 *Severity Rating: 3*
+
+![editing my list](/whichbook/h5%201.png)
+
+![delete error](/whichbook/h5%202.png)
 
 A major error occurs when you try to remove books from your list. When editing your list, you are required to select books you want to delete. If you try to delete without selecting, the page gives you an error pop-up that tells you to select at least one book by clicking on the cover. However, why you try to click on the cover, you are unable to select any book. The ‘Select all’ button works to select books, and you can unselect a selected book, but you cannot reselect it by clicking on the cover. Therefore, although error diagnosis seems to work, the suggested solution does not.
 
