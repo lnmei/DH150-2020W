@@ -49,6 +49,8 @@ Finally, when viewing the search results themselves, the blue links under the bo
 #### 3. User control and freedom
 *Severity Rating: 2*
 
+![search function](/whichbook/h3%201.png)
+
 The search function features a simple reset button for search parameters, and clicking on a selected category can allow you to deselect it and select something else, although figuring this feature out relies on the user experimenting by clicking around the menu.  
 
 #### 4. Consistency and standards
