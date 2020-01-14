@@ -109,37 +109,103 @@ A major error occurs when you try to remove books from your list. When editing y
 The search parameters are unlabeled and using them requires the user to click around first to understand its functions, such as the sliders and the 4 category limit. There is no ‘Help’ page and the ‘About’ page does not give any usability documentation. Hovering or clicking buttons does not give information about what those buttons do.
 
 
-## LibraryThing Heuristic Evaluation
+## Readgeek Heuristic Evaluation
+[Readgeek](http://readgeek.com)
 
+![Readgeek homepage](/readgeek/homepage.png)
+
+Readgeek is a website that allows users to get book recommendations based on how they rate other books they have read, and using statistics and algorithms gives users a personalized prediction of how well they may rate a recommended book. Users can categorize books on their shelf and wishlist. Readgeek also functions as a social networking site in which users can find other readers who have read and enjoyed similar books.
+
+#### Initial Evaluation
+
+When I first started navigating Readgeek, I found the premise of getting recommendations by rating interesting but discovered that the site's way of giving users books to rate without categorization by genre or other traditional book categories gave me almost entirely books from literary 'canon', predominantly western literature, older literature, and books that I would never choose as representative of my taste. This was the only convenient way to rate books without searching for them individually, which was the first and most prominant usability issue I noticed. Ultimately I find that the website's usability is moderately effective but does not serve the needs and desires of many users, which you can easily see by scrolling through the site's user feedback tab.
+
+### 10 Usability Heuristics Evaluation
 
 #### 1. Visibility of system status
-*Severity Rating: *
+*Severity Rating: 1*
+
+![rate books](/readgeek/h1%201.png)
+
+When rating books, the page will always display how many books you have finished rating. You can easily see your stats for site usage from the homepage. 
 
 #### 2. Match between system and the real world
-*Severity Rating: *
+*Severity Rating: 2*
+
+![when we were vikings](/readgeek/h2%201.png)
+
+The site seems not to give books that are new given its rating system and will therefore be unable to recommend more recent books (When We Were Vikings comes out this month). The site also does not feature less popular books in its results (Running with Lions, below). The site is therefore a bit antiquated and limited in the books it catalogues. 
+
+![running with lions](/readgeek/h2%202.png)
+
+In both cases, if a library system has the book the search will give books from the library and other sources for users to import.
+For some reason sometimes while searching, although the site interface is all in English, buttons in the search result will appear in another language which appears to be either Spanish or Portuguese. 
 
 #### 3. User control and freedom
-*Severity Rating: *
-
-#### 4. Consistency and standards
-*Severity Rating: *
-
-#### 5. Error prevention
-*Severity Rating: *
-
-#### 6. Recognition rather than recall
-*Severity Rating: *
-
-#### 7. Flexibility and efficiency of use
-*Severity Rating: *
-
-#### 8. Aesthetic and minimalist design
 *Severity Rating: 3*
 
-The interface on all pages is cluttered and overwhelming to look at with little to no graphics to break up text.
+![cannot undo rating](/readgeek/h3%201.png)
+
+One error when rating is if you click to rate a book that you didn't intend to rate. When you try to undo your mistake, there is no button or option to undo a rating, no way of clicking around that undoes it, and trying to return the slider to the neutral position instead makes it seem that you rated the book 0/10. 
+
+![book shelves](/readgeek/h3%202.png)
+
+![book page](/readgeek/h2%203.png)
+
+Additionally, if you try and edit your list of books to undo these errors after the fact, the process is a bit clumsy since you cannot edit books from the list interface itself and must view the book on it's own page to edit your interaction with it. From the book page itself errors are easy to undo and correct.
+
+#### 4. Consistency and standards
+*Severity Rating: 1*
+
+The site uses icons that are pretty standard and self-explanatory i.e. a magnifying glass for search, a book with stars underneath for rating books. Links on the navigation bar and terms used on the site are standard and easy to understand for new users. The rating system out of 10 is familiar to users and using a slide bar to rate is intuitive. 
+
+![typo](/readgeek/h4%201.png)
+
+There are some small typos on the interface ('Fiend your first friend').
+
+#### 5. Error prevention
+*Severity Rating: 1*
+
+![search results](/readgeek/h5%201.png)
+
+When a search doesn't turn up any results from the website itself, the search either gives users the option or automatically redirects to other sources that users can use to supplement what is available on the website. This prevents errors of not finding most books that do exist but aren't listed on the site yet.
+
+#### 6. Recognition rather than recall
+*Severity Rating: 2*
+
+![no search autofill or recommended search](/readgeek/h6%201.png)
+
+The rating system gives you pages of books that you can look at and rate, which allows you to pick from a list of books you recognize instead of recalling ones you have read before. However, if you are searching for a specific book and use the search bar, there is no option to autofill the result and you must search based on a your memory of a book's title or author.
+
+#### 7. Flexibility and efficiency of use
+*Severity Rating: 3*
+
+![feedback](/readgeek/h7%201.png)
+
+Many users give feedback on this area in the feedback tab, such as asking for the ability to rate and like groups of books instead of just one by one i.e. an entire series like Harry Potter. 
+
+
+Features such as selecting and mass editing books from your bookshelf are missing and therefore inconvenient in the case of wanting to add a group of books to a different shelf. Additionally, features such as creating a new shelf are missing, restricting all users to a predefined set of shelves even if those shelves do not fit a user's desired categorization system. 
+
+#### 8. Aesthetic and minimalist design
+*Severity Rating: 1*
+
+The interface is overall easy to navigate and understand, not overly cluttered, and gives users necessary information and functions on each page. The background is plain and all important navigation is easy to find at the top of the page. If anything the aesthetic design is slightly outdated but not enough to be disruptive to the website experience.
 
 #### 9. Help users recognize, diagnose, and recover from errors
-*Severity Rating: *
+*Severity Rating: 2*
+
+![mispelled query](/readgeek/h9%201.png)
+
+The search function will display results close to a mispelled queries, but in some cases this might obscure results if the search misinterprets your input as a mispelling rather than intentional without giving users the option to correct the system.
+
+![no recommendation error](/readgeek/h9%202.png)
+
+If a user tries to get recommendations without rating any books, the user recieves an error message that tells uses to rate more books to recieve a recommendation and provides a link to go do so. 
 
 #### 10. Help and documentation
 *Severity Rating: *
+
+![quick tutorial](/readgeek/h10%201.png)
+
+When you first enter the website, right below the header with the option to start using the site, there is an easy to read explanation of how to use the website and what features are available. Most other things on the site are intuitive and easy to master just by using them without needing a tutorial. 
