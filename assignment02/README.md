@@ -1,1 +1,2 @@
 
+One thing I needed to take into consideration in future Usability Tests is to make sure I am either giving tasks that can be completed without needing to Login, or otherwise making sure an account is logged in for the test. In general, I need to be more thorough while designing tasks for my users that allow them to adeptly complete the tasks properly without having extraneous and distracting steps or leaving the participant unable to complete the task by default. 
