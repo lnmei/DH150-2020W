@@ -20,15 +20,15 @@ While conducting my interview, my interviewee did not feel comfortable with bein
 
 ### Contextual Inquiry Guide
 
-
+[My interview on user book searching](https://github.com/lnmei/DH150-2020W/blob/master/assignment04/Book%20Search%20Interview.docx)
 
 ### Data
 
 
 
-
-
-### Transcript
+### Transcription
 
 
 ### Reflection
+
+
