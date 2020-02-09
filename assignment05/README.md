@@ -8,7 +8,7 @@ Photo by Marcus Lewis on Unsplash
 
 #### Demographic
 
-* Age: 30
+* Age: 35
 * Location: New York City, New York, USA
 * Education: Pursuing a Graduate Degree in Information Studies and Library Science
 * Job: pursuing Librarianship
@@ -43,7 +43,7 @@ Photo by Marcus Lewis on Unsplash
 #### Empathy Map
 
 
-## Persona 2: Cassidy the Casual and Infrequent Reader
+## Persona 2: Cassandra the Casual and Infrequent Reader
 
 ![Persona 2](/assignment05/persona%202.jpg)
 
@@ -58,24 +58,29 @@ Photo by Muhammad Ruqiyaddin on Unsplash
 
 #### Reading Habits
 
-* Hasn't read much since before starting university and wants to get back into the habit
-* Tends to have trouble finishing books unless very interested in it
-* Has a young child at home and wants to get back into reading to be a role model for her child
-* Likes reading popular literature
-* Cares about seeing good representation and diversity in characters
-
+* hasn't read much since before starting university and wants to get back into the habit
+* tends to have trouble finishing books unless very interested in it
+* has a young child at home and wants to get back into reading to be a role model for her child
+* likes reading popular literature
+* prefers reading print books
+* is more comfortable reading in Farsi but also reads in English
 
 #### Motivations and Needs
 
-* 
-*
-*
+* find a book interesting enough to help them get started reading more regularly
+* read books to buy and keep at home
 
 #### Goals
 
+* find recommendations for contemporary books to start her reading habit
+* find books she can buy print versions of at local bookstores or online
+* find books like the ones she enjoyed years ago before college
+* find books in Farsi as well as English
 
 #### Challenges
 
+* has not read many books so doesn't know what is popular or where to start reading
+* difficult to find contemporary book recommendation in languages other than English
 
 #### Empathy Map
 
@@ -87,7 +92,7 @@ Photo by Joanna Nix on Unsplash
 
 #### Demographic
 
-* Age: 21
+* Age: 19
 * Location: London, United Kingdom
 * Education: currently studying to earn a Bachelor degree in neuroscience
 * Job: works part-time on campus and as a lab assistant
