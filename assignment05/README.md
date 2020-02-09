@@ -1,6 +1,6 @@
 # User Personas + Scenarios
 
-## Persona 1: Avid and Omnivorous Reader
+## Persona 1: Adam the Avid and Omnivorous Reader
 
 ![Persona 1](/assignment05/persona%201.jpg)
 
@@ -8,10 +8,10 @@ Photo by Marcus Lewis on Unsplash
 
 #### Demographic
 
-Age: 30
-Location: New York City, New York, USA
-Education: Pursuing a Graduate Degree Information Studies and Library Science
-Job: pursuing Librarianship
+* Age: 30
+* Location: New York City, New York, USA
+* Education: Pursuing a Graduate Degree in Information Studies and Library Science
+* Job: pursuing Librarianship
 
 ##### Reading Habits
 
@@ -43,7 +43,7 @@ Job: pursuing Librarianship
 #### Empathy Map
 
 
-## Persona 2: Casual and Infrequent Reader
+## Persona 2: Cassidy the Casual and Infrequent Reader
 
 ![Persona 2](/assignment05/persona%202.jpg)
 
@@ -51,7 +51,25 @@ Photo by Muhammad Ruqiyaddin on Unsplash
 
 #### Demographic
 
+* Age: 26
+* Location: Oakville, Ontario, Canada
+* Education: Bachelor of Fine Arts in Illustration
+* Job: Freelance Children's Book Illustrator
+
+#### Reading Habits
+
+* Hasn't read much since before starting university and wants to get back into the habit
+* Tends to have trouble finishing books unless very interested in it
+* Has a young child at home and wants to get back into reading to be a role model for her child
+* Likes reading popular literature
+* Cares about seeing good representation and diversity in characters
+
+
 #### Motivations and Needs
+
+* 
+*
+*
 
 #### Goals
 
@@ -61,13 +79,18 @@ Photo by Muhammad Ruqiyaddin on Unsplash
 
 #### Empathy Map
 
-## Persona 3: Picky and Busy Reader
+## Persona 3: Pandora the Picky and Busy Reader
 
 ![Persona 3](/assignment05/persona%203.jpg)
 
 Photo by Joanna Nix on Unsplash
 
 #### Demographic
+
+* Age: 21
+* Location: London, United Kingdom
+* Education: currently studying to earn a Bachelor degree in neuroscience
+* Job: works part-time on campus and as a lab assistant
 
 #### Motivations and Needs
 
