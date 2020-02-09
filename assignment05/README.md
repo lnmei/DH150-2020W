@@ -185,12 +185,41 @@ Adam has a large number of books they have read and that have been recommended t
 
 ### Adam's User Journey
 
+###### Challenges to reaching their goal
+
+
+
+###### Frustrations
+
+
+
+###### Solution
+
+
+
+###### Taking Action 
+
+
 
 ## Scenario 2: Cassandra 
 
 Cassandra wants to start reading books again to build a habit of reading and wants to start by finding a recommended book similar to her childhood favorite, Howl's Moving Castle by Diana Wynne Jones. She wants to find similar books to ensure that she enjoys the book enough to stay motivated to read and finish it. Since Cassandra thinks of reading as a fun hobby, she doesn't want or need to spend a lot of time or effort looking for a book to read and just wants to quickly pick one to buy and begin reading. 
 
 ### Cassandra's User Journey
+
+###### Challenges to reaching their goal
+
+
+
+###### Frustrations
+
+
+
+###### Solution
+
+
+
+###### Taking Action 
 
 
 
@@ -199,4 +228,19 @@ Cassandra wants to start reading books again to build a habit of reading and wan
 Pandora is looking for a new book to read that has very specific criteria aside from genre which include the POV of the narrator, the race and gender identity of protagonists, whether or not the book has a happy ending, whether the book features explicit violence or abuse, and the race and gender identity of the author. Pandora doesn't have a lot of time to search for book recommendations that fit her criteria and wants to quickly use her preferences to find matching books. 
 
 ### Pandora's User Journey
+
+###### Challenges to reaching their goal
+
+
+
+###### Frustrations
+
+
+
+###### Solution
+
+
+
+###### Taking Action 
+
 
