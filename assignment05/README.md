@@ -33,7 +33,7 @@ Photo by Marcus Lewis on Unsplash
 * keep track of a large quantity of recommended books 
 * find recommendations for books they have not yet read
 * find authors with diverse backgrounds and unique, diverse stories
-* find and pormote more obscure and newer books, authors, and publishing companies
+* find and promote more obscure and newer books, authors, and publishing companies
 
 #### Challenges
 
@@ -178,3 +178,25 @@ Photo by Joanna Nix on Unsplash
 ###### Feels: 
 * strongly likes or dislikes books based on her own reasons
 * when there is a book she really likes, wants to read everything similar
+
+## Scenario 1: Adam
+
+Adam has a large number of books they have read and that have been recommended to them that they want to keep track of. Adam also wants to keep track of the types of books recommended, such as by topic, genre, the identity of the author, the diversity of characters, and many other categories. In addition to keeping track of past recommendations, Adam wants to keep track of new recommendations and categorize them. Adam frequently finds new books to read, and needs to keep their lists updated in a convenient way.
+
+### Adam's User Journey
+
+
+## Scenario 2: Cassandra 
+
+Cassandra wants to start reading books again to build a habit of reading and wants to start by finding a recommended book similar to her childhood favorite, Howl's Moving Castle by Diana Wynne Jones. She wants to find similar books to ensure that she enjoys the book enough to stay motivated to read and finish it. Since Cassandra thinks of reading as a fun hobby, she doesn't want or need to spend a lot of time or effort looking for a book to read and just wants to quickly pick one to buy and begin reading. 
+
+### Cassandra's User Journey
+
+
+
+## Scenario 3: Pandora
+
+Pandora is looking for a new book to read that has very specific criteria aside from genre which include the POV of the narrator, the race and gender identity of protagonists, whether or not the book has a happy ending, whether the book features explicit violence or abuse, and the race and gender identity of the author. Pandora doesn't have a lot of time to search for book recommendations that fit her criteria and wants to quickly use her preferences to find matching books. 
+
+### Pandora's User Journey
+
