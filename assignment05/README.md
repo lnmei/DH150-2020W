@@ -187,25 +187,29 @@ Adam has a large number of books they have read and that have been recommended t
 
 #### How Adam is using this product
 
+Adam has a list in their notebook of books that have been recommended to them by friends, colleagues, and mentors in the past year that they want to convert to my product for easier tracking and to, in the future, directly add recommendations to instead of keeping them on paper. Adam uses the book search feature to type in titles and authors and on the result page of the book add it to their 'Want to Read' list using the button on each book that allows them to add books to their list.
+
+On the navigation bar, Adam can now click 'Lists' to access the lists they have made of books. Adam now wants to find nonfiction books in their list of 'Want to Read'. After clicking to view this list of books, Adam can now use the 'List search' function to search by genre. Adam clicks on the 'category search' feature and clicks on the genre, which gives them a drop down where they can click the check box nonfiction and the the search button to see which books in their list are in the nonfiction genre.
 
 
 ### Adam's User Journey
 
 ###### Challenges to reaching their goal
 
-
+* Keeping track of a large number of books can be difficult especially with updating them frequently. Adam needs to keep track of books in different categories such as genre, author demographic, etc.
 
 ###### Frustrations
 
-
+* Adam does keep track of a growing list of recommended books that they want to read, but going back to look for which books are non-fiction, whick books are by LGBTQ+ authors, and other specifics can be difficult and troublesome.
 
 ###### Solution
 
-
+* Adam can use my product's feature which allows users to add books to a 'Want to Read' list or other lists they create and label themselves, as well as search within their list based on category tags such as author identity, character, plot, genre, etc.
 
 ###### Taking Action 
 
-
+* Adam creates a list of about 50 of the books most recently recommended to them using my product to search and find the books then add them to their 'Want to Read' list. Then with their newly created list Adam can sort through the list by author demographic to find books written by authors labeled as LGBTQ+ authors.
+* Adam now can easily find recommended books they want to read that are written by LGBTQ+ authors without having to remember this information themself.
 
 ## Scenario 2: Cassandra 
 
@@ -243,7 +247,7 @@ Pandora is looking for a new book to read that has very specific criteria aside 
 
 #### How Pandora is using this product
 
-Pandora has an idea about what criteria she wants to look for. This time she is looking for a book written by a black woman author about a black woman main character that is told in 3rd person POV, is science fiction, and has a happy ending. She uses the advanced search option from the home screen, which allows her to mark check boxes from several categories in drop down menus. She clicks on the drop down for 'Author', selects 'woman' under 'gender', 'black' under 'race', and 'American' under 'nationality'. She clicks on 'Character', selects 'woman' under 'gender', 'black' under 'race', and 'main' under 'role'. She clicks on 'Genre' and selects 'science fiction'. She clicks on 'Story', selects '3rd person' under 'narrator', and 'happy' under 'ending'. With her search filled out, she clicks the search button and is given her first result. She can see the criteria this book fits, a synopsis, a short review, and standard book information including title, author, page count, and publication year. She can select whether she likes this book and to add it to her 'Want to Read' list, or to move on to the next result by clicking a 'next' button. She decides to check out the next book, gets a similar page, and likes the book so she adds it to her list and decides to read it next.
+Pandora has an idea about what criteria she wants to look for. This time she is looking for a book written by a black woman author about a black woman main character that is told in 3rd person POV, is science fiction, and has a happy ending. She uses the category search option from the home screen, which allows her to mark check boxes from several categories in drop down menus. She clicks on the drop down for 'Author', selects 'woman' under 'gender', 'black' under 'race', and 'American' under 'nationality'. She clicks on 'Character', selects 'woman' under 'gender', 'black' under 'race', and 'main' under 'role'. She clicks on 'Genre' and selects 'science fiction'. She clicks on 'Story', selects '3rd person' under 'narrator', and 'happy' under 'ending'. With her search filled out, she clicks the search button and is given her first result. She can see the criteria this book fits, a synopsis, a short review, and standard book information including title, author, page count, and publication year. She can select whether she likes this book and to add it to her 'Want to Read' list, or to move on to the next result by clicking a 'next' button. She decides to check out the next book, gets a similar page, and likes the book so she adds it to her list and decides to read it next.
 
 ### Pandora's User Journey
 
@@ -259,7 +263,7 @@ Pandora has an idea about what criteria she wants to look for. This time she is 
 
 ###### Solution
 
-* Pandora can use the advanced search feature of my product, which allows for finding books by the qualities of character, setting, author, plot, and other properties. 
+* Pandora can use the category search feature of my product, which allows for finding books by the qualities of character, setting, author, plot, and other properties. 
 
 ###### Taking Action 
 
