@@ -42,6 +42,23 @@ Photo by Marcus Lewis on Unsplash
 
 #### Empathy Map
 
+###### Says:
+* "I like reading because it teaches me about both the world and myself."
+* "I am passionate about diversifying the books I read and supporting diverse voices in literature."
+* "I like reviewing and recommending books to let others know how great they are."
+
+###### Thinks:
+* popular book recommendations often represent already popular authors or which publishing company has more money so doesn't rely on them very much
+* reading diverse books is the most important thing to gaining knowledge and to being a librarian
+
+###### Does:
+* frequently reading books and tracking their read books
+* gives personal recommendations to friends and colleagues
+* reads books and authors that represent as much diversity as they can find
+
+###### Feels: 
+* pride if they can promote a less popular but good book
+* motivated to read a lot and meet their reading goal
 
 ## Persona 2: Cassandra the Casual and Infrequent Reader
 
@@ -81,8 +98,18 @@ Photo by Muhammad Ruqiyaddin on Unsplash
 
 * has not read many books so doesn't know what is popular or where to start reading
 * difficult to find contemporary book recommendation in languages other than English
+* doesn't have friends who are readers to help her find recommendations
 
 #### Empathy Map
+
+###### Says:
+
+###### Thinks:
+
+###### Does:
+
+###### Feels: 
+
 
 ## Persona 3: Pandora the Picky and Busy Reader
 
@@ -120,7 +147,15 @@ Photo by Joanna Nix on Unsplash
 #### Challenges
 
 * difficult to find books that fit her tastes and has already read all books by the authors she likes
-* is very busy and doesn't want to frequently look for book recommendations
+* is very busy and has limited time to look and review book recommendations
 
 
 #### Empathy Map
+
+###### Says:
+
+###### Thinks:
+
+###### Does:
+
+###### Feels: 
