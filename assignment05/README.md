@@ -179,7 +179,7 @@ Photo by Joanna Nix on Unsplash
 * strongly likes or dislikes books based on her own reasons
 * when there is a book she really likes, wants to read everything similar
 
-## Scenario 1: Adam
+## Scenario 1: Adam uses the 'Add to List' feature
 
 #### Why Adam is using this product
 
@@ -211,7 +211,7 @@ On the navigation bar, Adam can now click 'Lists' to access the lists they have 
 * Adam creates a list of about 50 of the books most recently recommended to them using my product to search and find the books then add them to their 'Want to Read' list. Then with their newly created list Adam can sort through the list by author demographic to find books written by authors labeled as LGBTQ+ authors.
 * Adam now can easily find recommended books they want to read that are written by LGBTQ+ authors without having to remember this information themself.
 
-## Scenario 2: Cassandra 
+## Scenario 2: Cassandra uses the 'Similar Search' feature
 
 #### Why Cassandra is using this product
 
@@ -239,7 +239,7 @@ Cassandra uses the similar search feature to look up the book 'Howl's Moving Cas
 
 * Cassandra uses the similar search function from the home page of my product to type the title 'Howl's Moving Castle', selected the result 'Howl's Moving Castle by Diana Wynne Jones' from the search bar suggestion drop down, and then clicks the search button. The results page gives the first book result, including all of the book information and similar categories and Cassandra has the option to add this book to her list of 'Want to Read' and/or to see the next result.
 
-## Scenario 3: Pandora
+## Scenario 3: Pandora uses the 'Category Search' feature
 
 #### Why Pandora is using this product
 
