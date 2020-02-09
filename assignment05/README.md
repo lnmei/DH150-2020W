@@ -181,7 +181,13 @@ Photo by Joanna Nix on Unsplash
 
 ## Scenario 1: Adam
 
+#### Why Adam is using this product
+
 Adam has a large number of books they have read and that have been recommended to them that they want to keep track of. Adam also wants to keep track of the types of books recommended, such as by topic, genre, the identity of the author, the diversity of characters, and many other categories. In addition to keeping track of past recommendations, Adam wants to keep track of new recommendations and categorize them. Adam frequently finds new books to read, and needs to keep their lists updated in a convenient way.
+
+#### How Adam is using this product
+
+
 
 ### Adam's User Journey
 
@@ -203,7 +209,13 @@ Adam has a large number of books they have read and that have been recommended t
 
 ## Scenario 2: Cassandra 
 
-Cassandra wants to start reading books again to build a habit of reading and wants to start by finding a recommended book similar to her childhood favorite, Howl's Moving Castle by Diana Wynne Jones. She wants to find similar books to ensure that she enjoys the book enough to stay motivated to read and finish it. Since Cassandra thinks of reading as a fun hobby, she doesn't want or need to spend a lot of time or effort looking for a book to read and just wants to quickly pick one to buy and begin reading. 
+#### Why Cassandra is using this product
+
+Cassandra wants to build a habit of reading books and wants to start by finding a recommended book similar to her childhood favorite, Howl's Moving Castle by Diana Wynne Jones. She wants to find similar books to ensure that she enjoys the book enough to stay motivated to read and finish it. Since Cassandra thinks of reading as a fun hobby, she doesn't want or need to spend a lot of time or effort looking for a book to read and just wants to quickly pick one to buy and begin reading. 
+
+#### How Cassandra is using this product
+
+
 
 ### Cassandra's User Journey
 
@@ -225,22 +237,31 @@ Cassandra wants to start reading books again to build a habit of reading and wan
 
 ## Scenario 3: Pandora
 
+#### Why Pandora is using this product
+
 Pandora is looking for a new book to read that has very specific criteria aside from genre which include the POV of the narrator, the race and gender identity of protagonists, whether or not the book has a happy ending, whether the book features explicit violence or abuse, and the race and gender identity of the author. Pandora doesn't have a lot of time to search for book recommendations that fit her criteria and wants to quickly use her preferences to find matching books. 
+
+#### How Pandora is using this product
+
+Pandora has an idea about what criteria she wants to look for. This time she is looking for a book written by a black woman author about a black woman main character that is told in 3rd person POV, is science fiction, and has a happy ending. She uses the advanced search option from the home screen, which allows her to mark check boxes from several categories in drop down menus. She clicks on the drop down for 'Author', selects 'woman' under 'gender', 'black' under 'race', and 'American' under 'nationality'. She clicks on 'Character', selects 'woman' under 'gender', 'black' under 'race', and 'main' under 'role'. She clicks on 'Genre' and selects 'science fiction'. She clicks on 'Story', selects '3rd person' under 'narrator', and 'happy' under 'ending'. With her search filled out, she clicks the search button and is given her first result. She can see the criteria this book fits, a synopsis, a short review, and standard book information including title, author, page count, and publication year. She can select whether she likes this book and to add it to her 'Want to Read' list, or to move on to the next result by clicking a 'next' button. She decides to check out the next book, gets a similar page, and likes the book so she adds it to her list and decides to read it next.
 
 ### Pandora's User Journey
 
 ###### Challenges to reaching their goal
 
-
+* Pandora's criteria are very specific and there are many criteria that she wants a book to meet all at once.
+* searching and checking each book to see if it fits a criteria she wants is time consuming and she is very busy.
 
 ###### Frustrations
 
-
+* Typically looking for a book with specific qualities is time consuming and difficult because it requires reading a synopsis, checking reviews, etc. 
+* Pandora doesn't have time and energy to do this often so she usually ends up rereading books she has enjoyed before instead.
 
 ###### Solution
 
-
+* Pandora can use the advanced search feature of my product, which allows for finding books by the qualities of character, setting, author, plot, and other properties. 
 
 ###### Taking Action 
 
-
+* When Pandora searches, she can select check boxes of qualities she likes in different categories. When the search results appear, they will show which qualities she searched by match with that book. * A search for the combination of 3rd person POV, black woman author, and historical fantasy may give results that fit 3, 2, or 1 of these characteristics (in descending order of how many match) and list which ones match for each book.
+* Now Pandora can quickly and easily get exactly the results she is looking for very quickly!
