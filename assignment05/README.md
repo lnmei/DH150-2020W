@@ -103,12 +103,22 @@ Photo by Muhammad Ruqiyaddin on Unsplash
 #### Empathy Map
 
 ###### Says:
+* "I haven't read books in so long, and I don't know how to get back into the habit."
+* "There were a lot of books I liked reading growing up, I want to read something similar for fun."
 
 ###### Thinks:
+* reading is a casual hobby and should primarily be a fun way to pass time
+* reading a lot is a bit overwhelming so a habit should be built slowly
+* reading print books is the best and other formats are not as enjoyable
 
 ###### Does:
+* buys the books she wants to read
+* reads at specific times to build a habit, such as before bed or while having breakfast
+* looks for a recommendation for a next book each time she finishes one
 
 ###### Feels: 
+* eager to start reading again but confused on where to begin
+* surprised and a bit overwhelmed by the number of good books that she finds from recommendation
 
 
 ## Persona 3: Pandora the Picky and Busy Reader
@@ -147,7 +157,7 @@ Photo by Joanna Nix on Unsplash
 #### Challenges
 
 * difficult to find books that fit her tastes and has already read all books by the authors she likes
-* is very busy and has limited time to look and review book recommendations
+* is very busy and has limited time to look for and review book recommendations
 
 
 #### Empathy Map
