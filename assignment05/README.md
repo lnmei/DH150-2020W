@@ -97,12 +97,30 @@ Photo by Joanna Nix on Unsplash
 * Education: currently studying to earn a Bachelor degree in neuroscience
 * Job: works part-time on campus and as a lab assistant
 
+#### Reading Habits
+ 
+* reads when she can in between her busy student schedule
+* is picky about which books she will read; has specific pet peeves (i.e. hates 1st person narrator)
+* lives a very active lifestyle and is frequently out of the house
+* likes listening to audiobooks during commute time; otherwise likes ebooks for reading on her phone
+* likes to discuss books she has read with friends
+
 #### Motivations and Needs
+
+* wants to find books to read based on specific criteria
+* get and keep track of multiple recommendations that she can quickly refer to when starting a new book
+* read as a hobby to relax and learn in her free time, and to discuss with friends
 
 #### Goals
 
+* keep track of books she wants to read to refer to quickly
+* have an easy way to check how to obtain a book to read in digital format
+* find books that match her particular and strict preferences
 
 #### Challenges
+
+* difficult to find books that fit her tastes and has already read all books by the authors she likes
+* is very busy and doesn't want to frequently look for book recommendations
 
 
 #### Empathy Map
