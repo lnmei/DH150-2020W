@@ -219,25 +219,25 @@ Cassandra wants to build a habit of reading books and wants to start by finding 
 
 #### How Cassandra is using this product
 
-
+Cassandra uses the similar search feature to look up the book 'Howl's Moving Castle,' selects 'Howl's Moving Castle by Diana Wynne Jones' from the search suggestion drop down under the bar, and clicks search. She gets the first result page which gives her a book with all of the book information including a synopsis, some category tags, and the options at the bottom to add the book to her 'Want to Read' List and/or to move on to the next result by clicking the 'Next' button. She decides to add the book to her list by clicking the option to add it to her 'Want to Read' list and then also browses the next option and adds it as well.
 
 ### Cassandra's User Journey
 
 ###### Challenges to reaching their goal
 
-
+* Cassandra has only just started thinking about reading again and other tha remembering books she has liked when she was a child and teenager, doesn't know where to begin looking for a new book to read.
 
 ###### Frustrations
 
-
+* Cassandra feels overwhelmed by the huge quantity of books and information about books she finds and just wants a simple way to find books similar to the ones she likes
 
 ###### Solution
 
-
+* Cassandra can use the similar search function on my product to type in the name or author of a book and find that specific book as well as books that are similar to that book based on categorical similarities, with search results in descending order of similar categories.
 
 ###### Taking Action 
 
-
+* Cassandra uses the similar search function from the home page of my product to type the title 'Howl's Moving Castle', selected the result 'Howl's Moving Castle by Diana Wynne Jones' from the search bar suggestion drop down, and then clicks the search button. The results page gives the first book result, including all of the book information and similar categories and Cassandra has the option to add this book to her list of 'Want to Read' and/or to see the next result.
 
 ## Scenario 3: Pandora
 
