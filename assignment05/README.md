@@ -163,9 +163,18 @@ Photo by Joanna Nix on Unsplash
 #### Empathy Map
 
 ###### Says:
+* "I like reading for fun but I'm so picky about which books to read. Even things like the audiobook narrrator or POV ruin a book for me."
+* "I don't have a lot of free time so I squeeze in time to read whenever I have time like during my commute."
 
 ###### Thinks:
+* it's hard to find books that have the right mood, characterization, plot element, etc.
+* reading is purely for fun so branching out from her interests isn't necessary; comfort zone is fine
 
 ###### Does:
+* reads almost exclusively in digital format
+* starts and never finishes many books because of specific things that don't fit her taste
+* will reread some books if she runs out of recommendations
 
 ###### Feels: 
+* strongly likes or dislikes books based on her own reasons
+* when there is a book she really likes, wants to read everything similar
