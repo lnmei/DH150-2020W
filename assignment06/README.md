@@ -26,8 +26,17 @@ Users can catelog which books they want to read by adding a book to their list f
 
 ## Testing
 
+![user test pathways](/assignment06/user%20test.PNG)
+In the image, each different color corresponds with a different task for a feature: red = category search; purple = keyword search; blue = adding to and searching list
+
+
+
+I found that my user had difficult at first understanding the search function just by viewing the screen but caught on after looking at it for a while. This is an area I would need to improve by providing a tutorial or help. I found that rather than searching by keyword first when doing any type of search, my user would first go to the tags such as when looking for a book by genre, or searching for a book by a specific author. Then I found that my user once she recieved the book search result would not look at the tags until she had already looked at book descriptions and looked at other books, checking the tags as a supplement to the book information. When searching the list the user's first attempt was just to scroll through the list instead of taking time to conduct an extra search. Ultimately, the user completed all tasks efficiently with all 3 tests on this lofi prototype taking under 5 minutes. 
+
 ## Reflection
 
-I learned that while preparing a low fidelity prototype, even though it is "low fidelity" a lot of specific considerations go into the prototype and designing the necessary features for each page to carry out your task smoothly. I also found that designing a page that was both as simple as possible but not confusing took careful consideration about how to design the placement, labeling, and kinds of features on each page and how to represent them in the wireframe. 
+I learned that while preparing a low fidelity prototype, even though it is "low fidelity" a lot of specific considerations go into the prototype and designing the necessary features for each page to carry out your task smoothly. From testing I learned that although as the designer I try my best to optimize the features on my prototype, the user will still behave in a way that is, firstly based on familiar user behavior on other types of internet sites (i.e. scroll to search a list instead of using a list searching feature), and secondly that even if a feature is more common compared to another, a user will prefer to use something that utilizes recognition rather than recall (using category search rather than search bar for keywords which is a more common search function).
+
+Based on this feedback, I would firstly provide a help or tutorial section for pages, especially the search function. I would also change the design of the list feature to make browsing a list easier and give less priority to using a list search feature.
 
 Regarding the testing process, ...
