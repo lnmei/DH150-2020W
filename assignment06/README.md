@@ -27,3 +27,7 @@ Users can catelog which books they want to read by adding a book to their list f
 ## Testing
 
 ## Reflection
+
+I learned that while preparing a low fidelity prototype, even though it is "low fidelity" a lot of specific considerations go into the prototype and designing the necessary features for each page to carry out your task smoothly. I also found that designing a page that was both as simple as possible but not confusing took careful consideration about how to design the placement, labeling, and kinds of features on each page and how to represent them in the wireframe. 
+
+Regarding the testing process, ...
