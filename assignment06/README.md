@@ -18,6 +18,12 @@ Users can catelog which books they want to read by adding a book to their list f
 
 ## Wireframe
 
+![wireframe](assignment06/wireframe.PNG)
+
+
+
+![wireflow](assignment06/wireflow.PNG)
+
 ## Testing
 
 ## Reflection
