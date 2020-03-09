@@ -16,16 +16,29 @@ As a reader who intentionally tries to diversify the authors I read and find goo
 
 ## Competitor Analysis
 
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
-(2 & 3)
+[Whichbook](https://www.whichbook.net/)
+
+Whichbook is a website that helps you choose a book to read through a unique process of searching by mood, emotion, plot shape, type of main character, and other parameters beyond genre, author, or keywords. The site focuses on books that readers will not find on other websites, excluding bestselling authors or already popular books in favor of less well-known books rated and contributed by real readers. Once a book is found, users can be linked to borrow or buy it, share it online, or add it to a book list.
+
+
+
+While the premise of Whichbook is very interesting, I found that the website itself had a number of usability issues and an outdated graphical interface that made using the website unpleasant and frustrating. Most notable when conducting usability testing is the difficulty in performing some basic search functions using the website, such as when a user wants to find a specific book or author by a regular keyword search. The website lacked helpful documentation for users to learn how to navigate, was very inflexible and required quite a bit of time to get used to, and was outdated both in its graphical design and search categories, among a host of other issues.
+
+[Full Heuristic Evaluation](https://github.com/lnmei/DH150-2020W/tree/master/assignment01)
+
+[Usability Test](https://github.com/lnmei/DH150-2020W/tree/master/assignment02)
 
 ## User Research
 
 Summary and link to your assignment folder (4)
 
+[My user research](https://github.com/lnmei/DH150-2020W/tree/master/assignment04)
+
 ## UX Storytelling
 
 Summary and link to your assignment folder (5)
+
+[User Personas + Scenarios](https://github.com/lnmei/DH150-2020W/tree/master/assignment05)
 
 ## Wireframe and Graphic Design 
 
