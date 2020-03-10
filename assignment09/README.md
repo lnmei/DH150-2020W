@@ -75,6 +75,8 @@ This prototype of the book recommendation and listing service bookcore showcases
 
 ## Pitch Video
 
+[bookcore Pitch](https://youtu.be/9IyhoajotWo)
+
 ## Conclusion
 
 Before going through this first iteration of user experience design process, I didn't realize how much research, interaction, and rounds of iteration it takes to develope a good user experience design, and how so many of the features I take for granted because they are intuitive have been evolved over time thanks to the work of designers who do this type of research to improve how users use technologies with graphical interfaces. The biggest take away from this process is how different the intentions and thought-process of designers can be from those of the user when using these designs. 
