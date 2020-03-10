@@ -36,7 +36,13 @@ Summary and link to your assignment folder (4)
 
 ## UX Storytelling
 
-Summary and link to your assignment folder (5)
+I built this project surrounding the user stories of 3 personas:
+
+1. Adam the avid and omnivorous reader: a reader who reads a lot and often of all types of books
+2. Cassandra the casual and infrequent reader: a reader who reads infrequently trying to build up a habit of reading
+3. Pandora the picky and busy reader: a reader who reads when she can but is particular about the kinds of books she reads
+
+With these different personas with distinctly different reading habits in mind, I built search functions of different levels of detail with various categories for search, a feature to find results similar to a specific book, and a function to save and review lists of books readers want to keep track of. To elaborate on how each persona would use and benefit from each feature, I defined a user journey for each.
 
 [User Personas + Scenarios](https://github.com/lnmei/DH150-2020W/tree/master/assignment05)
 
